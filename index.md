@@ -23,7 +23,7 @@
                 <br>
                 <br>
                 <a href= "https://drive.google.com/file/d/1urvzRHTTUYAgFXoPAeqhKeeuAuu2Y3_j/view?usp=sharing"><input type="button" class="but" name="github" value="Demo One"></a>
-                <a href= "#"><input type="button" class="but" name="projMan" value="Requirements Document"></a>
+                <a href= "https://github.com/COS301-SE-2020/3D-model-Binary-Vision/blob/master/Documentation/System%20Requirements%20Specification.pdf"><input type="button" class="but" name="projMan" value="Requirements Document"></a>
                 <br>
                 <br>
                 <h1>Team Members</h1>
